@@ -20,15 +20,16 @@ The model was fine-tuned on custom datasets representing specific banking threat
 
 ### Performance Metrics Table
 
-
-> <img width="604" height="448" alt="image" src="https://github.com/user-attachments/assets/7fc47739-1f42-4c4e-9675-5a9cb21c1f60" />
+> <img width="604" alt="Object Detection Model Performance Table" src="https://github.com/user-attachments/assets/7fc47739-1f42-4c4e-9675-5a9cb21c1f60" />
+>
 > **Figure 1: Training metrics and accuracy results from the Jupyter Notebook.**
 
 ## ✉️ Security Notification System
 A core feature of this project is the real-time alerting system. When the model detects an unusual activity with a confidence score above a set threshold, it automatically sends a detailed security alert via email.
 
 ### Alert Example
-> <img width="547" height="562" alt="image" src="https://github.com/user-attachments/assets/1e460de1-d190-438f-bb00-cc456518e9d5" />
+> <img width="547" alt="Security Alert Email Example" src="https://github.com/user-attachments/assets/1e460de1-d190-438f-bb00-cc456518e9d5" />
+>
 > **Figure 2: Example of the automated security alert sent by the system.**
 
 ## 🛠️ Tech Stack
@@ -43,4 +44,3 @@ A core feature of this project is the real-time alerting system. When the model 
 
 ## 🏁 Conclusion
 This project demonstrates the power of Computer Vision in FinTech security. By automating the monitoring process, banks can ensure 24/7 protection for their customers and assets with high reliability.
-
