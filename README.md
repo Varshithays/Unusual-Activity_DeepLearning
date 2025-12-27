@@ -3,3 +3,6 @@
 Developed a system using YOLOv8 model and custom datasets to detect unusual activities in ATM surveillance footage.
 Utilized computer vision algorithms for real-time analysis of video frames, identifying anomalies such as unauthorized access or suspicious behavior.
 Implemented a notification system to send email alerts upon detection of unusual activity.
+
+<img width="547" height="562" alt="image" src="https://github.com/user-attachments/assets/9cf339f8-3d88-42ec-ade6-daf7db18e972" />
+
